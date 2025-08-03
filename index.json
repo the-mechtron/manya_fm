@@ -1,0 +1,27 @@
+{
+  "version": "1.0",
+  "lastUpdated": "2024-01-20",
+  "appConfig": {
+    "appName": "ManyaFM",
+    "primaryColor": "#1DB954",
+    "accentColor": "#191414"
+  },
+  "songs": [
+    {
+      "id": "1",
+      "title": "Your First Song",
+      "artist": "Artist Name",
+      "duration": 180,
+      "audioUrl": "https://drive.google.com/uc?export=download&id=1mYSjRfAEVQgveenjCyHw422GqnlwM41c",
+      "coverArt": "",
+      "addedDate": "2024-01-20"
+    }
+  ],
+  "playlists": [
+    {
+      "id": "favorites",
+      "name": "Favorites",
+      "songIds": []
+    }
+  ]
+}
